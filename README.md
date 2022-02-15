@@ -1,3 +1,18 @@
+**Proposal**
+
+For my proposal, I want to represent the dangers of fast fashion, in terms of child labor, unethical factories, harmful dyes/materials and low wages. I want it to convince people to think about where their clothes are coming from, how it could not only harm themselves but the people who wark to create the product. I have drawn a few different layouts, but I am not sure which one to use right now. I think sustainability is something that especially our generation considers, so most likely this image would relate to that audience the most. 
+
+Here is an idea of the assest list I will need:
+| Asset | Solution |
+| ----|----|
+| woman in the middle | CC or self |
+| clothing | CC or self |
+| thought bubbles | CC |
+| factories | CC |
+
+These aren't all the assets I would like to use but I want to look around and see what I can find that would relate to this idea. 
+
+
 # Project 2: Visual Argument / Rhetorical Collage
 
 Your task in this unit is to **make a rhetorical claim through the juxtaposition of images and text.** It's kind of a collage, but a collage with an argument to make. In assigning this, I have two main goals for you: (1) to learn how to ethically obtain images and edit them using digital tools, and (2) to explore the affordances of still images as a medium, and especially their ability to _direct attention_ and _help make ideas memorable_.
