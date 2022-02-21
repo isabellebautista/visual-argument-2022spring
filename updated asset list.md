@@ -7,3 +7,4 @@
 | CO2 | https://thenounproject.com/icon/co2-1970676/ |
 | factory icon | |
 | no money icon | https://thenounproject.com/icon/no-money-4596640/ |
+| arrow icons | https://thenounproject.com/icon/arrow-2185568/ |
