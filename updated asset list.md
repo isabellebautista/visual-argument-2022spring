@@ -6,3 +6,4 @@
 | worker | https://thenounproject.com/icon/worker-1690315/ |
 | CO2 | https://thenounproject.com/icon/co2-1970676/ |
 | factory icon | |
+| no money icon | https://thenounproject.com/icon/no-money-4596640/ |
