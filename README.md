@@ -12,6 +12,7 @@ Here is an idea of the assest list I will need:
 
 These aren't all the assets I would like to use but I want to look around and see what I can find that would relate to this idea. 
 
+In the end I would like to call this piece, Clothing Consumption, emphasizing the consumption that comes along with buying new clothes. 
 
 # Project 2: Visual Argument / Rhetorical Collage
 
